@@ -1,0 +1,1498 @@
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\bin\Debug\Login.exe.config
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\bin\Debug\Login.exe
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\bin\Debug\Login.pdb
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\bin\Debug\MySql.Data.dll
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Login.Login.resources
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Login.exe
+C:\Users\aluno\source\RedeSocialSupermercaddo\Login\obj\Debug\Login.pdb
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\aluno\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Desk170\Downloads\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Desk170\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+H:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\projeto Atual 14-03-20019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Desk170\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+E:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Projeto Atual 19-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Projeto Atual 20-03-2019 - Cópia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização projeto fatec 20-03-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\source\repos\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Lincon\Downloads\ProjetoAcademiaMonstroD+\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - gabriel\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização projeto 11-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Desk 190\Documents\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Cadastrar.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 15-04-2019 - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 22-04-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 23-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 24-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Privado\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Privado\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Privado\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Privado\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Privado\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Privado\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Lincon\source\repos\Projeto Charles e Bruno\Atualização Projeto 25-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 26-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\DADOS (NAO APAGAR)\desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\Desktop\ProjetoAcademiaMonstroD+ (1)\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 29-04-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Lincon\Desktop\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 04-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Privado\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 14-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+G:\Projeto Charles e Bruno\Atualização Projeto 15-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\MARIZETE\Desktop\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 16-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\Osvaldo\Desktop\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 17-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 18-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 21-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+ - Cópia\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 22-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 23-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 24-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 27-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+K:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\aluno\Desktop\Atualização Projeto 28-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+G:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 lincon + Artur\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 28-05-2019 - cont alterar\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\CircularProgressBar.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 29-05-2019 - Copia\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\CircularProgressBar.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 01-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\CircularProgressBar.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 03-06-2019  - Lincon\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+C:\Users\aluno\Desktop\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 03-06-2016 - corrigir presenca\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+I:\Projeto Charles e Bruno\Atualização Projeto 04-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+D:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 10-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe.config
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\Login.pdb
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\MySql.Data.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\bin\Debug\WinFormAnimation.dll
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csprojAssemblyReference.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaProfessor.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.AreaSecretaria.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.CadFuncionario.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.ExerciciosAluno.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Login.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.PaginaInicial.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.RecuperarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.TipoCadastro.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.Telas.TrocarSenha.resources
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.GenerateResource.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Academia.csproj.CopyComplete
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.exe
+F:\Projeto Charles e Bruno\Atualização Projeto 12-06-2016\ProjetoAcademiaMonstroD+\Login\obj\Debug\Login.pdb

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Academia.Conexao" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAA=</HashCode>
+      <FileName>Dao\Conexao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Dao.FuncionarioDAO" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIEAAAAAAAAABEAAEACkAAAAAAAAAAAAAAEBAAAAI=</HashCode>
+      <FileName>Dao\FuncionarioDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Dao.PessoaDAO" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGQYECAEAAAAAAREEIEACkAAAAAABAEAAAGAAgEAAAA=</HashCode>
+      <FileName>Dao\PessoaDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Bll.FuncionarioBLL">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAAAAAEAAAABEAAEACkAAAAAAAAAAAAAAABAAAAI=</HashCode>
+      <FileName>Bll\FuncionarioBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Bll.PessoaBLL">
+    <Position X="5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AmQIACAEAAAAAABEEIEACkAAAAFAAAEAAACAAgEAAAA=</HashCode>
+      <FileName>Bll\PessoaBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.model.Pessoa" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAACkgAQxCAEAAhAACgJAAAIAIAiAAAQJEAAAgQEgA=</HashCode>
+      <FileName>Model\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Model.Exercicios" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rBAiACARUgEgBABAAAAAAIwrICIAKIwEACAACAjCAUA=</HashCode>
+      <FileName>Model\Exercicios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Model.MedidasAluno" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAEABAgACAQAgGAAAQAAQAQCAAAAAAAAAAABAQAgA=</HashCode>
+      <FileName>Model\MedidasAluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Criptografia">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAE=</HashCode>
+      <FileName>Ferramentas\Criptografia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Ferramentas.FecharJanela">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Ferramentas\FecharJanela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Idade">
+    <Position X="13.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAABAAAEAEAAAABAAAAEKBAQQACQAAAAAAEAAAA=</HashCode>
+      <FileName>Ferramentas\Idade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Ferramentas.ImagemBanco">
+    <Position X="15.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAIAAAAAAAAAAAAAAMAQAIAAAAAAAIAAABAA=</HashCode>
+      <FileName>Ferramentas\ImagemBanco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.IndiceGordura">
+    <Position X="17.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBBAAMgAgBCAAAABACAQAAEgAAAAEAAAAAAAAQAQAAA=</HashCode>
+      <FileName>Ferramentas\IndiceGordura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.ValidaCPF" Collapsed="true">
+    <Position X="19" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ferramentas\ValidaCPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
